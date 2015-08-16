@@ -1,0 +1,129 @@
+09/08/2015 11:10 pm
+SELECT * FROM empleado WHERE cedula ='454354365'
+
+09/08/2015 11:12 pm
+SELECT * FROM empleado WHERE cedula ='454354365'
+
+09/08/2015 11:12 pm
+SELECT * FROM empleado WHERE cedula ='454354365'
+
+09/08/2015 11:13 pm
+SELECT * FROM empleado WHERE cedula ='454354365'
+
+09/08/2015 11:13 pm
+SELECT * FROM empleado WHERE cedula ='454354365'
+
+09/08/2015 11:14 pm
+SELECT * FROM empleado WHERE cedula ='20062058'
+
+09/08/2015 11:15 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:15 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:17 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:17 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:18 pm
+SELECT * FROM usuario WHERE usuario = 'admin' AND clave = '1234'
+
+09/08/2015 11:19 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:19 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:20 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:20 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:22 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:22 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:26 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:26 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:30 pm
+SELECT * FROM empleado WHERE cedula ='434534'
+
+09/08/2015 11:30 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 2
+
+09/08/2015 11:32 pm
+SELECT * FROM empleado WHERE cedula ='434534'
+
+09/08/2015 11:32 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 2
+
+09/08/2015 11:34 pm
+SELECT * FROM usuario WHERE usuario = 'admin' AND clave = '1234'
+
+09/08/2015 11:35 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:35 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:35 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:35 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:35 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:35 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:35 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:35 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:36 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:36 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:36 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:36 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:36 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:36 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:47 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:47 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+09/08/2015 11:47 pm
+SELECT * FROM empleado WHERE cedula ='1234'
+
+09/08/2015 11:47 pm
+SELECT * FROM control WHERE fecha = '2015-08-09' AND id_emp = 1
+
+10/08/2015 06:38 am
+SELECT * FROM usuario WHERE usuario = 'admin' AND clave = '1234'
+

@@ -1,0 +1,12 @@
+09/08/2015 11:15 pm
+INSERT INTO control (hora_en, fecha, id_emp) VALUES ('23:15:56', '2015-08-09', '1')
+
+09/08/2015 11:30 pm
+INSERT INTO control (hora_en, fecha, id_emp) VALUES ('23:30:57', '2015-08-09', '2')
+
+09/08/2015 11:47 pm
+INSERT INTO control (hora_en, fecha, id_emp) VALUES ('23:47:00', '2015-08-09', '1')
+
+09/08/2015 11:47 pm
+INSERT INTO control (hora_en, fecha, id_emp) VALUES ('23:47:23', '2015-08-09', '1')
+
