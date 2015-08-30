@@ -82,11 +82,9 @@ function buscarUsuario(){
 
 	var usu_aux = $("#usuAux").val();
 
-	limpiarFormUsu();
-
-	if($.trim(usu_aux) == ''){
-		alert("ERROR... Debe introducir el nombre de un usuario");
-		return;
+	if($.trim(usu_aux) === ''){
+		limpiarFormUsu();
+		return false;
 	}
 
 	$.ajax( {

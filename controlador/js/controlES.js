@@ -26,8 +26,11 @@ function verificarCedulaEmp(){
 	        },
 			success : function(data) {
 				var data = JSON.parse(data);
-				if(data)
-					console.log(data);
+				if(data == 0){
+					alert("La cedula introducida no esta registrada en el sistema");
+					limpiarFormControl();
+					return;
+				}
 			}
 		});
 	}

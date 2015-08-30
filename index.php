@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>Inicio de Sesión</title>
     <link rel="stylesheet" href="css/css/bootstrap.css">
     <link rel="stylesheet" href="css/css/bootstrap-theme.css">
@@ -40,7 +40,7 @@
                                 <div class="form-group">
                                     <input class="form-control" id="pass" placeholder="Contraseña" name="contrasena" type="password" value="">
                                 </div>
-                                <button type="button" onclick="iniciarSesion();" 
+                                <button type="button" id="btn_ini" onclick="iniciarSesion();" 
                                 class="btn btn-lg btn-success btn-block">Iniciar Sesión <span class="glyphicon glyphicon-log-in"></span></button>
                             </fieldset>
                         </form>
@@ -55,5 +55,30 @@
     <script src="js/bootstrap.js"></script>
     <!--File js controller-->
     <script src="controlador/js/sesion.js"></script>
+    <script>
+        $(document).on('ready',function(){
+            $("#btn_ini").attr("disabled", true);
+        });
+        function habilitarBoton(){
+
+            var user = $("#user").val();
+            var pass = $("#pass").val();
+            var cont = 0;
+            
+            if ($.trim(pass) != 0) {
+                cont++;
+            }
+            if ($.trim(user)) {
+                cont++;
+            }
+            console.log(cont);
+        }
+        
+        $('.form-control').keyup(function(){
+            if (($.trim($(this).val()) != "") {
+                habilitarBoton(); 
+            }
+        })
+    </script>
 </body>
 </html>

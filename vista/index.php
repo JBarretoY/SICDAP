@@ -178,7 +178,7 @@
                 <div class="col-lg-5">
                     <div class="form-group">
                         <label for=""><em>Buscar usuario</em></label>
-                        <input type="text" id="usuAux" placeholder='Introduzca un Usuario' size="10" class="form-control" onblur="buscarUsuario();">
+                        <input type="text" id="usuAux" placeholder='Usuario' size="10" class="form-control" onblur="buscarUsuario();">
                     </div>
                 </div><br><br><br><br>
                 <div id="pan" class="panel panel-default">

@@ -42,9 +42,9 @@ class ControlEntSal{
 								  'id_emp'  => $id_aux_emp );
 					$data_final = $bd->insertar('control',$data);
 					if($data_final){
-						return '6_';
+						return '00';
 					}else{
-						return '8_';
+						return '88';
 					}
 				}
 
@@ -88,9 +88,9 @@ class ControlEntSal{
 							  'id_emp'  => $id_aux_emp );
 				$data_final = $bd->insertar('control',$data);
 				if($data_final){
-					return '6_';
+					return '00';
 				}else{
-					return '8_';
+					return '88';
 				}
 			}
 		}else{

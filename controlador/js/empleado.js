@@ -71,10 +71,9 @@ function buscarEmpleado(){
 
 	var cedula = $("#inBus").val();
 
-	if ($.trim(cedula) == '') {
-		alert("ERROR... Debe introducir una cedula");
+	if ($.trim(cedula) === '') {
 		limpiarFormEmp();
-		return;
+		return false;
 	}
 
 	$.ajax( {
